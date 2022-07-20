@@ -1,4 +1,4 @@
-:sunglasses:### Hi there 👋 I am Nonhlanhla Mndebele am a full stack developer.
+### Hi there 👋 I am Nonhlanhla Mndebele am a full stack developer.
 
 <!--
 **29td/29td** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
