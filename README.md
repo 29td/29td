@@ -24,7 +24,7 @@ I love designing websites, I can say I am more of a front-end developer than bac
 - 👯 I’m looking to collaborate remotly.
 - 🤔 I’m looking for help with PHP.
 - 💬 Ask me about full stack dev
-- :computer: Feel free to visit [my portfolio](https://github.com/29td/My-First-Portfolio) 
+- :computer: Feel free to visit [my portfolio](https://29td.github.io/my-portfolio/) 
 - 😄 Pronouns: her/she
 - 📫 How to reach me: 
 - GitHub: [@Nonhlanhla](https://https://github.com/29td)
