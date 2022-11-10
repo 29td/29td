@@ -1,4 +1,4 @@
-<h2 align="center"> Hello 👋 Welcome To My Profile 🥲 </h2>
+<h2 align="center"> Hello 👋 Welcome To My Profile 🤭 </h2>
 
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=My+Name++is++Nonhlanhla+Mndebele;I+am++into++Full-Stack-Development!!&center=true&width=380&height=45"></a>
