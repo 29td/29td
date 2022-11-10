@@ -1,4 +1,8 @@
-<h2 align="center"> Hello 👋 I am Nonhlanhla Mndebele a full stack developer.</h2>
+<h2 align="center"> Hello 👋 Welcome To My Profile :smiley </h2>
+
+<p align="center">
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=My+Name++is++Nonhlanhla+Mndebele;I+am++into++Full-Stack!!&center=true&width=380&height=45"></a>
+</p>
 
 <!--
 **29td/29td** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
