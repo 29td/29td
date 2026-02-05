@@ -35,10 +35,17 @@ I love designing websites, I can say I am more of a front-end developer than bac
 
 ## 🔥 Streak Stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/29td/github-readme-streak-stats -->
+<!-- GitHub Readme Streak Stats -->
 <p align="center">
-	<a href="https://github.com/29td/github-readme-streak-stats">
-		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Reggie's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=29td&theme=monokai-metallian&hide_border=true"/></a>
+  <a href="https://github.com/29td">
+    <img
+      title="🔥 GitHub Streak Stats"
+      alt="Reggie's streak"
+      src="https://github-readme-streak-stats.vercel.app/?user=29td&theme=monokai-metallian&hide_border=true"
+    />
+  </a>
+</p>
+
 <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
